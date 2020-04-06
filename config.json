@@ -1,0 +1,78 @@
+{
+    "select": 2,
+    "count": 4,
+    "manner": [
+        {
+            "name": "阿米娅",
+            "type": "search",
+            "id": "0&word=阿米娅&mode=exact_tag",
+            "R18": "Only",
+            "top": "Open",
+            "path": ".\\阿米娅\\",
+            "method": "direct",
+            "per_page": 50,
+            "last": 3,
+            "judge": {
+                "echo": "Off",
+                "score": 100,
+                "views": 2000,
+                "likes": 150,
+                "comments": -1
+            }
+        },
+        {
+            "name": "星极",
+            "type": "search",
+            "id": "0&word=星极&mode=exact_tag",
+            "R18": "Only",
+            "top": "Off",
+            "path": ".\\星极\\",
+            "method": "direct",
+            "per_page": 50,
+            "last": 30,
+            "judge": {
+                "echo": "Open",
+                "score": 50,
+                "views": 500,
+                "likes": 20,
+                "comments": -1
+            }
+        },
+        {
+            "name": "EVE",
+            "type": "search",
+            "id": "0&word=EVE&mode=exact_tag",
+            "R18": "Only",
+            "top": "Open",
+            "path": ".\\EVE\\",
+            "method": "direct",
+            "per_page": 100,
+            "last": 30,
+            "judge": {
+                "echo": "Open",
+                "score": 50,
+                "views": 500,
+                "likes": 200,
+                "comments": -1
+            }
+        },
+        {
+            "name": "ATEOYH",
+            "type": "member_illust",
+            "id": "17029152",
+            "R18": "Only",
+            "top": "Off",
+            "path": ".\\ATEOYH\\",
+            "method": "direct",
+            "per_page": 30,
+            "last": -1,
+            "judge": {
+                "echo": "Open",
+                "score": -1,
+                "views": -1,
+                "likes": -1,
+                "comments": -1
+            }
+        }
+    ]
+}
